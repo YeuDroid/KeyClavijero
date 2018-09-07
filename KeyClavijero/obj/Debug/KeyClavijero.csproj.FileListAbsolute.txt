@@ -1,0 +1,6 @@
+C:\Users\a1100\Documents\SharpDevelop Projects\KeyClavijero\KeyClavijero\bin\Debug\KeyClavijero.exe.config
+C:\Users\a1100\Documents\SharpDevelop Projects\KeyClavijero\KeyClavijero\bin\Debug\KeyClavijero.exe
+C:\Users\a1100\Documents\SharpDevelop Projects\KeyClavijero\KeyClavijero\bin\Debug\KeyClavijero.pdb
+C:\Users\a1100\Documents\SharpDevelop Projects\KeyClavijero\KeyClavijero\obj\Debug\KeyClavijero.csprojResolveAssemblyReference.cache
+C:\Users\a1100\Documents\SharpDevelop Projects\KeyClavijero\KeyClavijero\obj\Debug\KeyClavijero.exe
+C:\Users\a1100\Documents\SharpDevelop Projects\KeyClavijero\KeyClavijero\obj\Debug\KeyClavijero.pdb
